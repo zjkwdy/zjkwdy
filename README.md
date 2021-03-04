@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 ### 啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业。
 
-- [睿站](https://space.bilibili.com/470310172)
+- [Bilibili 主页](https://space.bilibili.com/470310172)
+- [个人博客](https://zjkwdy.gitee.io)
 
 [![GH Status](https://github-readme-stats.vercel.app/api?username=zjkwdy)]()
