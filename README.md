@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - [个人博客](https://wdsjimin.gitee.io)
 - [Gitee](https://gitee.com/wdsjimin)
 - [邮箱](mailto:3377911508@qq.com)
-- [QQ](https://api.66mz8.com/api/qq.talk.php?qq=33779110508&format=card)
+- [QQ](https://api.66mz8.com/api/qq.talk.php?qq=1875391011&format=card)
 
 [![GH Status](https://github-readme-stats.vercel.app/api?username=zjkwdy)]()
