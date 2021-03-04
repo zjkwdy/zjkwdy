@@ -14,13 +14,18 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="33.webp">
+    <h1>zjkwdy</h1>
+    <h3>啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业！</h3>
 </p>
 
 ---
 
-### 啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业。
+
 
 - [Bilibili 主页](https://space.bilibili.com/470310172)
 - [个人博客](https://zjkwdy.gitee.io)
+- [Gitee](https://gitee.com/wdsjimin)
+- [邮箱](mailto:3377911508@qq.com)
+- [QQ](https://api.66mz8.com/api/qq.talk.php?qq=33779110508&format=card)
 
 [![GH Status](https://github-readme-stats.vercel.app/api?username=zjkwdy)]()
