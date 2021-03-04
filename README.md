@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="33.webp">
-    <h1>zjkwdy</h1>
-    <h3>啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业！</h3>
+    <h1 align="center">zjkwdy</h1>
+    <h3 align="center">啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业！</h3>
 </p>
 
 ---
