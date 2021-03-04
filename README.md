@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### 啥也不是的苦逼初中生，不折不扣的懒狗，不爱写作业。
+#### 啥也不是的苦逼初中生，不折不扣的懒狗，不爱写作业。
 
-[![Bilibili](https://raw.githubusercontent.com/spencerwooo/Substats/master/docs/assets/logo_bilibili.png)](https://space.bilibili.com/470310172)
+- [睿站](https://space.bilibili.com/470310172)
 
 [![GH Status](https://github-readme-stats.vercel.app/api?username=zjkwdy)]()
