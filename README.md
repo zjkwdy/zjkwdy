@@ -16,6 +16,8 @@ Here are some ideas to get you started:
     <img src="33.webp">
 </p>
 
+---
+
 ### 啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业。
 
 - [Bilibili 主页](https://space.bilibili.com/470310172)
