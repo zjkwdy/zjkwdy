@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 啥也不是的苦逼初中生，不折不扣的懒狗，不爱写作业。
+### 啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业。
 
 - [睿站](https://space.bilibili.com/470310172)
 
