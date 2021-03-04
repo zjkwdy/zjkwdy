@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="33.webp" width="250" height="200">
+    <img src="33.webp">
 </p>
 
 ### 啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业。
