@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="//file.nmb.show/view.php/e82c83329c3c0f728a8d29cd030f6a52.mp3">
-        <img src="//s3.ax1x.com/2021/03/04/6ZaqjP.gif" alt="阔耐的33" title="看我干嘛！">
+        <img src="https://s3.ax1x.com/2021/03/04/6ZaqjP.gif" alt="阔耐的33" title="看我干嘛！">
     </a>
     <a href="//www.github.com/zjkwdy">
     <h1 align="center">zjkwdy</h1>
