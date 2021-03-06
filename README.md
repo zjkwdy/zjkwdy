@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <a href="//file.nmb.show/view.php/e82c83329c3c0f728a8d29cd030f6a52.mp3">
         <img src="https://s3.ax1x.com/2021/03/04/6ZaqjP.gif" alt="阔耐的33" title="看我干嘛！">
     </a>
-    <h1 color="blue" align="center">zjkwdy</h1>
+    <h1 style="style:blue;" align="center">zjkwdy</h1>
     <h3 align="center">啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业！</h3>
 </p>
 
