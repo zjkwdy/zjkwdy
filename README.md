@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="https://s3.ax1x.com/2021/03/04/6ZaqjP.gif" alt="阔耐的33" title="看我干嘛！">
+    <a href="https://file.nmb.show/view.php/e82c83329c3c0f728a8d29cd030f6a52.mp3">
+        <img src="https://s3.ax1x.com/2021/03/04/6ZaqjP.gif" alt="阔耐的33" title="看我干嘛！">
+    </a>
     <h1 align="center">zjkwdy</h1>
     <h3 align="center">啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业！</h3>
 </p>
@@ -29,5 +31,3 @@ Here are some ideas to get you started:
 - [QQ](https://api.66mz8.com/api/qq.talk.php?qq=3377911508&format=card)
 
 [![GH Status](https://github-readme-stats.vercel.app/api?username=zjkwdy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
-
-<audio id="bgmMusic" src="https://file.nmb.show/view.php/e82c83329c3c0f728a8d29cd030f6a52.mp3" autoplay="autoplay" loop="loop" preload="auto"></audio>
