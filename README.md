@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 [![GH Status](https://github-readme-stats.vercel.app/api?username=zjkwdy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 
-<iframe src="https://file.nmb.show/player.php?hash=e82c83329c3c0f728a8d29cd030f6a52" width="407" scrolling="no"frameborder="0"height="70"></iframe>
+<audio id="bgmMusic" src="https://file.nmb.show/view.php/e82c83329c3c0f728a8d29cd030f6a52.mp3" autoplay="autoplay" loop="loop" preload="auto"></audio>
