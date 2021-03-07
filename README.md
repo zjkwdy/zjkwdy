@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 ---
 
 
-
 - [Bilibili 主页](https://space.bilibili.com/470310172)
 - [个人博客](https://wdsjimin.gitee.io)
 - [Gitee](https://gitee.com/wdsjimin)
 - [邮箱](mailto:3377911508@qq.com)
 - [QQ](https://api.66mz8.com/api/qq.talk.php?qq=3377911508&format=card)
 
-[![GH Status](https://github-readme-stats.vercel.app/api?username=zjkwdy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+<img title="GayHub Stats" src="https://github-readme-stats.vercel.app/api?username=zjkwdy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right" />
