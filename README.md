@@ -18,13 +18,14 @@ Here are some ideas to get you started:
     </a>
     <h1 align="center"><font color="blue">zjkwdy</font></h1>
     <h3 align="center">啥也不是的苦逼初中生，不折不扣的懒狗，非常不爱写作业！</h3>
+    <h5 align="center">半吊子一个，不靠谱的很！</h5>
 </p>
 
 ---
 
 <img title="GayHub Stats" src="https://github-readme-stats.vercel.app/api?username=zjkwdy&show_icons=true&icon_color=79ff97&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" align="right" />
 
-> ### 社交平台
+> ### Hello World!👋
 - [Bilibili 主页](https://space.bilibili.com/470310172)
 - [个人博客](https://wdsjimin.gitee.io)
 - [Gitee](https://gitee.com/wdsjimin)
